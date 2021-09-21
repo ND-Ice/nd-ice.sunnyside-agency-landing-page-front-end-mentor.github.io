@@ -17,6 +17,7 @@
 .testimonial__page {
   padding: 2rem;
   text-align: center;
+  width: 100%;
 }
 
 .testimonial__heading {

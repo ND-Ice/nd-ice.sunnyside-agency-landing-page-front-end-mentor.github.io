@@ -16,6 +16,10 @@
 
 /* showcase */
 
+.showcase {
+  width: 100%;
+}
+
 .hero__image {
   width: 100%;
 }
