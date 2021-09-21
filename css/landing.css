@@ -102,7 +102,7 @@
 
 .landing__page {
   min-height: 100vh;
-  background: url(../images/mobile/image-header.jpg);
+  background: url("../images/mobile/image-header.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -121,7 +121,7 @@
 
 @media screen and (min-width: 768px) {
   .landing__page {
-    background: url(../images/desktop/image-header.jpg);
+    background: url("../images/desktop/image-header.jpg");
     background-position: center;
     background-size: cover;
   }
